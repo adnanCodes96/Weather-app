@@ -37,7 +37,7 @@ navigator.geolocation.getCurrentPosition(function(position){
                 </div>
 
                 <div class="wind">
-                    <h2Wind: ${data.wind.speed} km/h</h2>
+                    <h2>Wind: ${data.wind.speed} km/h</h2>
                 </div>
 
                 <div class="credits">
